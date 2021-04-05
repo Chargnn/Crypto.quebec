@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Crypto.quebec
-Android &amp; IOS app using flutter
-=======
 # crypto_quebec
 
 A new Flutter project.
